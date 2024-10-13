@@ -1,8 +1,14 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Aditya Sasidhar
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is 
 
 <div align="center">
+    <h1>
+        <img src="https://img.icons8.com/color/48/000000/star--v1.png"/>
+        <span style="color: #FFD700; text-shadow: 2px 2px 8px #FF4500, 0 0 25px #FFD700, 0 0 5px #FF6347;">Aditya Sasidhar</span> 
+        <img src="https://img.icons8.com/color/48/000000/star--v1.png"/>
+    </h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+like+to+build+stuff+in+Python;Cybersecurity+Enthusiast;Machine+Learning+Developer;Full-stack+Python+Programmer;I+don't+like+LeetCode+problems" alt="Typing SVG">
 </div>
+
 
 #### Skills
 [![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
