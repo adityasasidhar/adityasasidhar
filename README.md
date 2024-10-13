@@ -1,6 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is **Aditya Sasidhar**
 
-I like to build stuff in Python and I don't like LeetCode problems.
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Fan+%F0%9F%90%8D;Passionate+ML+Developer;Aspiring+Full-Stack+Python+Dev;Not+a+big+fan+of+LeetCode+%F0%9F%98%82" alt="Typing SVG">
+</div>
+
 
 
 
