@@ -1,11 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is **Aditya Sasidhar**
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Fan+%F0%9F%90%8D;Passionate+ML+Developer;Aspiring+Full-Stack+Python+Dev;Not+a+big+fan+of+LeetCode+%F0%9F%98%82" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Fan+%F0%9F%90%8D;Passionate+ML+Developer;Aspiring+Full-Stack+Python+Dev;Not+a+big+fan+of+LeetCode+%F0%9F%98%82;Keras+and+TensorFlow+Practitioner;Lifelong+Learner+%F0%9F%93%9A;Data+Visualization+Advocate;C%2B%2B+Coder+at+Heart;Exploring+JavaScript+and+Web+Dev;Turning+Ideas+into+Projects+%F0%9F%A7%A0" alt="Typing SVG">
 </div>
-
-
-
 
 #### Skills
 [![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
