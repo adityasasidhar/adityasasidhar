@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Aditya Sasidhar
-![](https://www.pinterest.com/ideas/brawl-stars-background/928887998372/)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jobsity.com%2Fblog%2F5-tips-to-power-up-your-github-profile&psig=AOvVaw0SQRU8IuKG2XkSrJu4RCfL&ust=1728917909150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDEoKHPi4kDFQAAAAAdAAAAABAE)
 
 I like to build stuff on python and I don't like leetcode problems
 
