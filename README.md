@@ -2,7 +2,8 @@
 
 I like to build stuff in Python and I don't like LeetCode problems.
 
-#### Skills
+
+###Skills
 [![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Keras](https://img.shields.io/badge/Keras-FF4C4C?style=for-the-badge&logo=keras&logoColor=white&labelColor=DC3035)](https://keras.io/)
 [![NumPy](https://img.shields.io/badge/NumPy-0071C1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)](https://numpy.org/)
@@ -12,6 +13,9 @@ I like to build stuff in Python and I don't like LeetCode problems.
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F8A835?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)](https://scikit-learn.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-61A4B2?style=for-the-badge&labelColor=3776AB)](https://seaborn.pydata.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0099D4?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8)](https://www.mathworks.com/products/matlab.html)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=machine-learning&labelColor=00695C)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Neural Networks](https://img.shields.io/badge/Neural%20Networks-E91E63?style=for-the-badge&labelColor=C2185B)](https://en.wikipedia.org/wiki/Artificial_neural_network)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-673AB7?style=for-the-badge&labelColor=512DA8)](https://en.wikipedia.org/wiki/Data_visualization)
 [![C](https://img.shields.io/badge/C-1666A2?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](https://www.java.com/)
