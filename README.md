@@ -1,6 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Aditya Sasidhar
 
-I like to build stuff in Python and I don't like LeetCode problems.
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+like+to+build+stuff+in+Python;Cybersecurity+Enthusiast;Machine+Learning+Developer;Full-stack+Python+Programmer;I+don't+like+LeetCode+problems" alt="Typing SVG">
+</div>
 
 #### Skills
 [![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
@@ -33,7 +35,6 @@ I like to build stuff in Python and I don't like LeetCode problems.
 
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&border_radius=10)
 
-![3D GitHub Contribution Graph](https://github.com/adityasasidhar/adityasasidhar/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adityasasidhar&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
