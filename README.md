@@ -1,6 +1,7 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Aditya Sasidhar
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is **Aditya Sasidhar**
 
 I like to build stuff in Python and I don't like LeetCode problems.
+
 
 
 #### Skills
