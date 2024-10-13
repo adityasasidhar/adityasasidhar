@@ -2,8 +2,7 @@
 
 I like to build stuff in Python and I don't like LeetCode problems.
 
-
-###Skills
+#### Skills
 [![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Keras](https://img.shields.io/badge/Keras-FF4C4C?style=for-the-badge&logo=keras&logoColor=white&labelColor=DC3035)](https://keras.io/)
 [![NumPy](https://img.shields.io/badge/NumPy-0071C1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)](https://numpy.org/)
