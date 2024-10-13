@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aditya Sasidhar
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Aditya Sasidhar
 
 I like to build stuff in Python and I don't like LeetCode problems.
 
@@ -31,10 +31,11 @@ I like to build stuff in Python and I don't like LeetCode problems.
 [![Instagram](https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/aditya_sasidhar/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FF9900?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F48024)](https://stackoverflow.com/users/27242689)
 
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&border_radius=10)
 
+![3D GitHub Contribution Graph](https://github.com/adityasasidhar/adityasasidhar/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true) 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityasasidhar&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 adityasasidhar/adityasasidhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
