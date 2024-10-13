@@ -1,10 +1,6 @@
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is;✨+Aditya+Sasidhar+✨" alt="Typing SVG">
-</div>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Aditya Sasidhar
 
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+like+to+build+stuff+with+Python;Cybersecurity+Enthusiast;Passionate+Machine+Learning+Developer;Wannabe+Full-stack+Python+Programmer;I+don't+like+LeetCode+problems" alt="Typing SVG">
-</div>
+I like to build stuff in Python and I don't like LeetCode problems.
 
 
 #### Skills
