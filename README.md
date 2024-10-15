@@ -43,10 +43,9 @@
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&border_radius=10)
 
 
-### **GitHub Contributions & Streak**  
+### **GitHub Stats**  
 
 ![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical)  
-![Aditya's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=adityasasidhar&theme=radical)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adityasasidhar&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
