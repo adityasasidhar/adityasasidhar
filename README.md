@@ -46,7 +46,7 @@
 ### **GitHub Contributions & Streak**  
 
 ![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical)  
-![Aditya's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=adityasasidhar&theme=redical)  
+![Aditya's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=adityasasidhar&theme=radical)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adityasasidhar&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
