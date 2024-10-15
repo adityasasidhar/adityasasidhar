@@ -34,16 +34,20 @@
 - 
 - 😄 Pronouns: He/Him 
 
-#### My Social sphere includes:
+#### *My Social sphere includes*
+:
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/adityasasidhar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582)](https://www.linkedin.com/in/aditya-sasidhar-2399bb27a/)
 [![Instagram](https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/aditya_sasidhar/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FF9900?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F48024)](https://stackoverflow.com/users/27242689)
 
+
+
+### **GitHub Stats** 
+
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&border_radius=10)
 
-
-### **GitHub Stats**  
+ 
 
 ![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical)  
 
