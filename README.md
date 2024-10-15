@@ -34,8 +34,8 @@
 - 
 - 😄 Pronouns: He/Him 
 
-#### *My Social sphere includes*
-:
+#### *My Social sphere includes:*
+
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/adityasasidhar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582)](https://www.linkedin.com/in/aditya-sasidhar-2399bb27a/)
 [![Instagram](https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/aditya_sasidhar/)
