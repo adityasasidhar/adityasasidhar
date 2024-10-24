@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is <strong>Aditya Sasidhar</strong> </h2>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Fan+%F0%9F%90%8D;Passionate+about+ML;Aspiring+Full-Stack+Python+Dev;Not+a+big+fan+of+LeetCode+%F0%9F%98%82;Keras+and+TensorFlow+Practitioner;Data+Visualization+Advocate;C%2B%2B+Coder+at+Heart (that's+a+lie);Exploring+JavaScript+and+Web+Dev;Special+Thanks+to+ChatGPT;Turning+Ideas+into+Projects+%F0%9F%A7%A0" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast|color=Red;Python+Fan+%F0%9F%90%8D|color=Green;Passionate+about+ML|color=Blue;Aspiring+Full-Stack+Python+Dev|color=Yellow;Not+a+big+fan+of+LeetCode+%F0%9F%98%82|color=Cyan;Keras+and+TensorFlow+Practitioner|color=Magenta;Data+Visualization+Advocate|color=Silver;C%2B%2B+Coder+at+Heart+(that's+a+lie)|color=Gray;Exploring+JavaScript+and+Web+Dev|color=Maroon;Special+Thanks+to+ChatGPT|color=Olive;Turning+Ideas+into+Projects+%F0%9F%A7%A0" alt="Typing SVG">
 </div>
 
 ---
