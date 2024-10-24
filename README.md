@@ -64,15 +64,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Contribution Days This Year" />
 </div>
 
----
-
-### **Contribution Days**
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Contribution Days" />
-</div>
-
----
 
 ### **Most Used Languages**
 
