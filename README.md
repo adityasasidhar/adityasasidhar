@@ -59,6 +59,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical" alt="Aditya's GitHub Streak">
 </div>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityasasidhar&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies">
-</div>
