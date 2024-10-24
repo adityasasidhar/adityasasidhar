@@ -61,9 +61,7 @@
 ### **Most Used Languages**
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=306998" alt="Python" />
-    <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFD600" alt="JavaScript" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasasidhar&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
 
 
