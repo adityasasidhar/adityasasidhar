@@ -57,16 +57,14 @@
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical" alt="Aditya's GitHub Streak">
 </div>
-### **Languages Used**
+
+### **Most Used Languages**
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=306998" alt="Python" />
     <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++" />
-    <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFD600" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=00578A" alt="CSS3" />
-    <img src="https://img.shields.io/badge/MATLAB-0099D4?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8" alt="MATLAB" />
 </div>
+
 
 
