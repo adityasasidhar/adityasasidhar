@@ -58,6 +58,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical" alt="Aditya's GitHub Streak">
 </div>
 
+### **Contribution Days This Year**
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityasasidhar&theme=radical&hide_border=true" alt="Contribution Days" />
+</div>
+
+
 ### **Most Used Languages**
 
 <div align="center">
