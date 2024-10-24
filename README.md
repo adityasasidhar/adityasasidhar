@@ -53,15 +53,9 @@
 ### **GitHub Stats**
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&border_radius=10" alt="Aditya's GitHub Stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Contribution Days This Year" />
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical" alt="Aditya's GitHub Streak">
-</div>
-
-### **Contribution Days This Year**
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Contribution Days This Year" />
 </div>
 
 
