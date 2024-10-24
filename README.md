@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on a Cybersecurity-based project  
 - 🌱 I’m currently learning JavaScript  
-- 💬 We can always have a long chat about Fighter jets, food, coding, and project building  
+- 💬 We can always have a long chat about Fighter jets, food, coding, and building projects
 - 😄 Pronouns: He/Him  
 
 ---
