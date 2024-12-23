@@ -69,6 +69,18 @@
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E1E1E" alt="VSCode" />
     </a>
+    <a href="https://slack.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=611F69" alt="Slack" />
+    </a>
+    <a href="https://discord.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED" alt="Discord" />
+    </a>
+    <a href="https://openai.com/chatgpt" target="_blank">
+        <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=007B65" alt="ChatGPT" />
+    </a>
+    <a href="https://github.com/features/copilot" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub%20Copilot-3DDC84?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E" alt="GitHub Copilot" />
+    </a>
 </div>
 
 
