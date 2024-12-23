@@ -19,6 +19,12 @@
     <a href="https://in.mathworks.com/help/matlab/" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0099D4?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8" alt="MATLAB" /></a>
     <a href="https://www.ibm.com/cloud/learn/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=machine-learning&labelColor=00695C" alt="Machine Learning" /></a>
     <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank"><img src="https://img.shields.io/badge/Neural%20Networks-E91E63?style=for-the-badge&labelColor=C2185B" alt="Neural Networks" /></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
+    <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"><img src="https://img.shields.io/badge/Deep%20Learning-7E57C2?style=for-the-badge&labelColor=5E35B1" alt="Deep Learning" /></a>
+    <a href="https://scipy.org/docs.html" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=0A4599" alt="SciPy" /></a>
+    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=183A61" alt="VirtualBox" /></a>
+    <a href="https://plotly.com/python/" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=13D3F3" alt="Plotly" /></a>
+    <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=E94E31" alt="Git" /></a>
     <a href="https://datavizproject.com/" target="_blank"><img src="https://img.shields.io/badge/Data%20Visualization-673AB7?style=for-the-badge&labelColor=512DA8" alt="Data Visualization" /></a>
     <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.shields.io/badge/C-1666A2?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC" alt="C" /></a>
     <a href="https://cplusplus.com/doc/tutorial/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++" /></a>
