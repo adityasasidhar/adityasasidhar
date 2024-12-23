@@ -106,15 +106,19 @@
 ---
 ### **GitHub Stats**
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-    <!-- GitHub Stats on the Left -->
-    <div style="flex: 1; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Contribution Days This Year" />
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical" alt="Aditya's GitHub Streak" />
-    </div>
-</div>
+<table width="100%">
+    <tr>
+        <!-- GitHub Stats on the Left -->
+        <td align="left" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=adityasasidhar&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Contribution Days This Year" />
+        </td>
+        <!-- GitHub Streak on the Right -->
+        <td align="right" width="50%">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical" alt="Aditya's GitHub Streak" />
+        </td>
+    </tr>
+</table>
+
 
 
 
