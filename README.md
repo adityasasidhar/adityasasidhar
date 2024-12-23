@@ -11,6 +11,10 @@
     <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-FF4C4C?style=for-the-badge&logo=keras&logoColor=white&labelColor=DC3035" alt="Keras" /></a>
     <a href="https://numpy.org/doc/" target="_blank"><img src="https://img.shields.io/badge/NumPy-0071C1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy" /></a>
     <a href="https://pandas.pydata.org/pandas-docs/stable/" target="_blank"><img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas" /></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=E34C26" alt="Torch" /></a>
+    <a href="https://spacy.io/" target="_blank"><img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0081A5" alt="SpaCy" /></a>
+    <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FCC72A?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=F9A825" alt="Hugging Face" /></a>
+    <a href="https://huggingface.co/llama" target="_blank"><img src="https://img.shields.io/badge/LLaMA-8E24AA?style=for-the-badge&logoColor=white&labelColor=6A1B9A" alt="LLaMA" /></a>
     <a href="https://matplotlib.org/stable/users/index.html" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-4695EB?style=for-the-badge&labelColor=11557C" alt="Matplotlib" /></a>
     <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=E47900" alt="TensorFlow" /></a>
     <a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F8A835?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit-Learn" /></a>
