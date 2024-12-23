@@ -17,6 +17,8 @@
     <a href="https://huggingface.co/llama" target="_blank"><img src="https://img.shields.io/badge/LLaMA-8E24AA?style=for-the-badge&logoColor=white&labelColor=6A1B9A" alt="LLaMA" /></a>
     <a href="https://matplotlib.org/stable/users/index.html" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-4695EB?style=for-the-badge&labelColor=11557C" alt="Matplotlib" /></a>
     <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=E47900" alt="TensorFlow" /></a>
+    <a href="https://huggingface.co/docs/transformers/" target="_blank"><img src="https://img.shields.io/badge/Transformers-FF5733?style=for-the-badge&logo=transformers&logoColor=white&labelColor=C70039" alt="Transformers" /></a>
+    <a href="https://huggingface.co/docs/diffusers/" target="_blank"><img src="https://img.shields.io/badge/Diffusers-3A86FF?style=for-the-badge&logoColor=white&labelColor=1A73E8" alt="Diffusers" /></a>
     <a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F8A835?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit-Learn" /></a>
     <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-61A4B2?style=for-the-badge&labelColor=3776AB" alt="Seaborn" /></a>
     <a href="https://docs.opencv.org/master/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=273C75" alt="OpenCV" /></a>
