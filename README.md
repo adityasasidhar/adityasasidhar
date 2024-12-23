@@ -41,6 +41,8 @@
     <a href="https://docs.github.com/en" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
+--
+
 
 - 🔭 I’m currently working on a Cybersecurity-based project  
 - 🌱 I’m currently learning JavaScript  
