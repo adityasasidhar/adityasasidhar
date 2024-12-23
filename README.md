@@ -83,6 +83,8 @@
     </a>
 </div>
 
+---
+
 
 - 🔭 I’m currently working on a Cybersecurity-based project  
 - 🌱 I’m currently learning JavaScript  
