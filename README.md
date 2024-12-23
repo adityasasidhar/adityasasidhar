@@ -46,7 +46,7 @@
     <!-- IDEs Section -->
     <h2>Preferred IDEs & Tools</h2>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=2F855A" alt="PyCharm" /></a>
-    <a href="https://www.clio.com/" target="_blank"><img src="https://img.shields.io/badge/Clio-0052CC?style=for-the-badge&logo=clio&logoColor=white&labelColor=003D99" alt="Clio" /></a>
+    <a href="https://www.clion.com/" target="_blank"><img src="https://img.shields.io/badge/Clio-0052CC?style=for-the-badge&logo=clio&logoColor=white&labelColor=003D99" alt="Clio" /></a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.shields.io/badge/WebStorm-1C1C1C?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=0A84FF" alt="WebStorm" /></a>
     <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=00494D" alt="GitKraken" /></a>
     <a href="https://desktop.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" /></a>
