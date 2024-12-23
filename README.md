@@ -40,14 +40,14 @@
     <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank"><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=0078D7" alt="Windows Terminal" /></a>
     <a href="https://docs.github.com/en" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
----
+
 
 - 🔭 I’m currently working on a Cybersecurity-based project  
 - 🌱 I’m currently learning JavaScript  
 - 💬 We can always have a long chat about Fighter jets, food, coding, and building projects
 - 😄 Pronouns: He/Him  
 
----
+
 
 ### **My Social Sphere**
 
