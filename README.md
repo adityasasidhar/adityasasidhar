@@ -41,10 +41,10 @@
     <a href="https://docs.github.com/en" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-## My Tools
+### **My Tools**
 <div align="center" style="margin-top: 40px;">
     <!-- IDEs Section -->
-    <h2>Preferred IDEs & Tools</h2>
+
     <a href="https://www.jetbrains.com/pycharm/" target="_blank">
         <img src="https://img.shields.io/badge/PyCharm-4CAF50?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=2F855A" alt="PyCharm" />
     </a>
