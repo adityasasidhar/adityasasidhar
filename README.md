@@ -101,7 +101,7 @@
     <a href="https://www.linkedin.com/in/aditya-sasidhar-2399bb27a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" alt="LinkedIn" /></a>
     <a href="https://www.instagram.com/aditya_sasidhar/"><img src="https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /></a>
     <a href="https://stackoverflow.com/users/27242689"><img src="https://img.shields.io/badge/Stack%20Overflow-FF9900?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F48024" alt="Stack Overflow" /></a>
-    <a href="https://discord.com/users/1280854565079613491"><img src="https://img.shields.io/badge/Discord-Aditya%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4E5AB7" alt="Discord" /></a>
+    <a href="https://discord.com/users/1280854565079613491"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4E5AB7" alt="Discord" /></a>
 </div>
 
 
