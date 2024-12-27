@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is <strong>Aditya Sasidhar</strong> </h2>
----
+
 
 
 - 🔭 I’m currently working on a Cybersecurity-based project  
@@ -53,7 +53,6 @@
 
 ### **My Tools**
 <div align="center" style="margin-top: 40px;">
-    <!-- IDEs Section -->
 <h2> Preferred Tools and IDE's</h2>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank">
         <img src="https://img.shields.io/badge/PyCharm-4CAF50?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=2F855A" alt="PyCharm" />
@@ -120,13 +119,7 @@
     </tr>
 </table>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityasasidhar)
-
-
-
-
-
-### **Most Used Languages**
+q### **Most Used Languages**
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasasidhar&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
