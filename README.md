@@ -119,7 +119,9 @@
         </td>
     </tr>
 </table>
-![Visitor Count](https://komarev.com/ghpvc/?username=adityasasidhar&color=blue)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityasasidhar)
+
 
 
 
