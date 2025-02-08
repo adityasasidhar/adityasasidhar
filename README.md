@@ -90,6 +90,15 @@
     <a href="https://github.com/features/copilot" target="_blank">
         <img src="https://img.shields.io/badge/GitHub%20Copilot-3DDC84?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E" alt="GitHub Copilot" />
     </a>
+    <a href="https://cursor.sh/" target="_blank">
+        <img src="https://img.shields.io/badge/Cursor-FFD700?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0A84FF" alt="Cursor Code Editor" />
+    </a>
+    <a href="https://www.spyder-ide.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Spyder%20IDE-E43F3F?style=for-the-badge&logo=spyder&logoColor=white&labelColor=181717" alt="Spyder IDE" />
+    </a>
+    <a href="https://www.jetbrains.com/datagrip/" target="_blank">
+        <img src="https://img.shields.io/badge/DataGrip-0A84FF?style=for-the-badge&logo=datagrip&logoColor=white&labelColor=00494D" alt="DataGrip" />
+    </a>
 </div>
 
 ---
