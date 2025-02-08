@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on a Cybersecurity-based project  
-- 🌱 I’m currently learning JavaScript  
+- 🔭 I’m currently working on my personality(not that it needs any work)
+- 🌱 I’m currently pentesting 
 - 💬 We can always have a long chat about Fighter jets, food, coding, and building projects
-- 🤫🧏 Pronouns: He/Him/dad/daddy
+- 🤫🧏 Pronouns: He/Him
 
 
 ---
