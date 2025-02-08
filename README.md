@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my personality(not that it needs any work)
-- 🌱 I’m currently pentesting 
+- 🌱 I’m currently learning pentesting 
 - 💬 We can always have a long chat about Fighter jets, food, coding, and building projects
 - 🤫🧏 Pronouns: He/Him
 
