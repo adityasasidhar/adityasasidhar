@@ -124,7 +124,7 @@
     </tr>
 </table>
 
-q### **Most Used Languages**
+### **Most Used Languages**
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasasidhar&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
