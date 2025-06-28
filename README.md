@@ -1,7 +1,9 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/adityasasidhar/adityasasidhar/main/img.png" alt="Jack hugging Transformer" width="600"/><br>
-  <i>Me and the Transformer model — it's a love story.</i>
-</p><h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is <strong>Aditya Sasidhar</strong> </h2>
+<p align="center">
+  <img src="img.png" alt="Jack hugging Transformer" width="600"/>
+  <br>
+</p>
+
+<h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is <strong>Aditya Sasidhar</strong> </h2>
 
 <p align="center">
   A passionate Computer Science student specializing in AI & Machine Learning. I enjoy building autonomous agents, exploring generative AI, and diving into cybersecurity.
