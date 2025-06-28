@@ -1,4 +1,7 @@
-<h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is <strong>Aditya Sasidhar</strong> </h2>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/adityasasidhar/adityasasidhar/main/img.png" alt="Jack hugging Transformer" width="600"/><br>
+  <i>Me and the Transformer model — it's a love story.</i>
+</p><h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is <strong>Aditya Sasidhar</strong> </h2>
 
 <p align="center">
   A passionate Computer Science student specializing in AI & Machine Learning. I enjoy building autonomous agents, exploring generative AI, and diving into cybersecurity.
@@ -9,16 +12,6 @@
 - 🚀 I have experience leading a robotics team to top-10 international finishes, designing and building competitive models from scratch.
 - 💬 We can always have a long chat about Fighter jets, food, coding, and building projects.
 - 🤫🧏 Pronouns: He/Him
-
----
-
-### **🚀 My Featured Projects**
-
-*   **Gemini-Powered Cybersecurity Agent**: Developed an autonomous cybersecurity agent using Google’s Gemini LLM to execute Linux commands, perform pen-testing, and run diagnostics via natural language.
-*   **SafeSurf Junior (Hackathon 3rd Place)**: Built an AI-powered browser extension to filter harmful content for children, reducing exposure by ∼90% and alerting law enforcement of potential threats.
-*   **Generative AI Game Environment**: Created an interactive Pygame environment where users can modify game maps in real-time using natural language prompts, powered by Llama models via the Groq API.
-
----
 
 ### **🛠️ Skills Stack**  
 
