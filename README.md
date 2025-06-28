@@ -1,8 +1,3 @@
-<p align="right">
-  <img src="ChatGPT Image Jun 28, 2025, 11_06_11 AM.png" alt="Jack hugging Transformer" width="600"/>
-  <br>
-</p>
-
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is <strong>Aditya Sasidhar</strong> </h2>
 
 <p align="center">
@@ -111,6 +106,11 @@
         </td>
         <td width="50%">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical&hide_border=true" alt="Aditya's GitHub Streak"/>
+
+<p align="right">
+  <img src="ChatGPT Image Jun 28, 2025, 11_06_11 AM.png" alt="Jack hugging Transformer" width="60"/>
+  <br>
+</p>
         </td>
     </tr>
     <tr>
