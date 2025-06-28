@@ -2,6 +2,10 @@
 
 <p align="center">
   A passionate Computer Science student specializing in AI & Machine Learning. I enjoy building autonomous agents, exploring generative AI, and diving into cybersecurity.
+  <p align="right">
+  <img src="ChatGPT Image Jun 28, 2025, 11_06_11 AM.png" alt="Jack hugging Transformer" width="100"/>
+  <br>
+</p>
 </p>
 
 - 🔭 I’m currently building autonomous AI agents and exploring the intersection of Generative AI and cybersecurity.
@@ -106,11 +110,6 @@
         </td>
         <td width="50%">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical&hide_border=true" alt="Aditya's GitHub Streak"/>
-
-<p align="right">
-  <img src="ChatGPT Image Jun 28, 2025, 11_06_11 AM.png" alt="Jack hugging Transformer" width="60"/>
-  <br>
-</p>
         </td>
     </tr>
     <tr>
@@ -119,3 +118,4 @@
         </td>
     </tr>
 </table>
+
