@@ -62,8 +62,7 @@
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-2B598A?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/></a>
     <td width="50%">
             <img align="center" src="<td width="50%">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasidhar&theme=radical&hide_border=true" alt="Aditya's GitHub Streak"/>
-        </td>&theme=radical&hide_border=true" alt="TryHackeme"/>
+            <img align="center" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4119614" alt="Aditya's"/>
         </td>
     
 </div>
