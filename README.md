@@ -97,7 +97,7 @@
 
 ---
 
-### **📊 GitHub Stats**
+### **📊 Stats & Achievements**
 
 <table width="100%">
     <tr>
@@ -109,9 +109,12 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasasidhar&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
+        <td width="50%" valign="top"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasasidhar&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
+        </td>
+        <td width="90%" align="center" valign="middle">
+            <a href="https://tryhackme.com/p/adityasasidhar" target="_blank">
+                <img src="https://tryhackme-badges.s3.amazonaws.com/adityasasidhar.png" width="300px alt="TryHackMe Badge for adityasasidhar" />
+            </a>
         </td>
     </tr>
 </table>
-
