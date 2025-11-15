@@ -199,10 +199,6 @@ Optimizing inference performance for local LLM deployment using vLLM and quantiz
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 **Contribution Snake**
-
-![snake gif](https://github.com/adityasasidhar/adityasasidhar/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
