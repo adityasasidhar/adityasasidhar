@@ -43,8 +43,14 @@
     <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a>
     <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
     <a href="https://huggingface.co/docs/transformers/" target="_blank"><img src="https://img.shields.io/badge/Transformers-4052AB?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers"/></a>
+    <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+    <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/></a>
+    <a href="https://docs.pydantic.dev/" target="_blank"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/></a>
     <a href="https://openai.com/api/" target="_blank"><img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/></a>
-    <a href="https://ai.google.dev/edge/gemma" target="_blank"><img src="https://img.shields.io/badge/Gemini%20/%20Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/></a>
+    <a href="https://groq.com/" target="_blank"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/></a>
+    <a href="https://ai.google.dev/" target="_blank"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/></a>
+    <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
+    <a href="https://docs.vllm.ai/" target="_blank"><img src="https://img.shields.io/badge/vLLM-6B46C1?style=for-the-badge&logo=lightning&logoColor=white" alt="vLLM"/></a>
     <a href="https://huggingface.co/meta-llama" target="_blank"><img src="https://img.shields.io/badge/LLaMA-8E24AA?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA"/></a>
     <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank"><img src="https://img.shields.io/badge/LLMs-007B65?style=for-the-badge&logo=probot&logoColor=white" alt="Large Language Models"/></a>
     <a href="https://en.wikipedia.org/wiki/Prompt_engineering" target="_blank"><img src="https://img.shields.io/badge/Prompt%20Engineering-FF7F50?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Prompt Engineering"/></a>
