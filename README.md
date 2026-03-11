@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Heellooo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hellooo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 Hi, I'm Aditya
 
