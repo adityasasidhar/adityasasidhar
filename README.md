@@ -1,4 +1,4 @@
-Hi, I'm Aditya
+Hi, I'm Adi
 
 I like Open Source Contributing and training deep neural networks.
 
