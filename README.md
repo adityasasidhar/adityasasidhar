@@ -1,6 +1,6 @@
 Hi, I'm Adi
 
-I like Open Source Contributing and training deep neural networks.
+I like Open Source Contributing, training deep neural networks and Research.
 
 Let's build for AI!
 
